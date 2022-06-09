@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Shiank98's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiank98)](https://github.com/shiank98/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiank98&layout=default&theme=cobalt)
